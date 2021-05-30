@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#canv {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    border-bottom: 2px solid black;
+}
+.res {
+    float: right;
+    height: 30px;
+    margin-right: 50px;
+}
+.br {
+    height: 30px;
+    float: right;
+    margin-right: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
